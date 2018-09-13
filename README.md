@@ -19,3 +19,4 @@ Self Organizing maps will be implemented and tested.
 
 # References 
 1. [Data](https://www.researchgate.net/publication/272091635_Benchmark_4-target_passive_sonar_scenario_description_for_1-D_tracking)
+2. [Self Organizing maps for time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.9893&rep=rep1&type=pdf)
