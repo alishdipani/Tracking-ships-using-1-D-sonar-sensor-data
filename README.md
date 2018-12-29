@@ -5,13 +5,12 @@ Self Organizing maps will be implemented and tested.
 
 # Timeline
 
-- [x] Data Loading and preprocessing (Spetember 3rd week)
-- [ ] ANNs on true data (October 2nd week)
-- [ ] Using ML models for removing noise (October 4th week)
-- [ ] Combining noise elimination and ANNs (November 1st week)
-- [ ] testing SOMs (November 3rd week)
-- [ ] Analysis of results (November 4th week)
-
+- [x] Data Loading and preprocessing 
+- [x] ANNs on true data 
+- [ ] Using ML models for removing noise 
+- [ ] Combining noise elimination and ANNs 
+- [ ] testing SOMs 
+- [ ] Analysis of results 
 # Softwares
 - Python 3.6
 - Pandas for loading, preprocessing and analysis
