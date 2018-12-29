@@ -14,7 +14,7 @@ Self Organizing maps will be implemented and tested.
 # Softwares
 - Python 3.6
 - Pandas for loading, preprocessing and analysis
-- Pytorch for Machine Learning and deep learniing models
+- scikit-learn for Machine Learning and deep learniing models
 
 # References 
 1. [Data](https://www.researchgate.net/publication/272091635_Benchmark_4-target_passive_sonar_scenario_description_for_1-D_tracking)
